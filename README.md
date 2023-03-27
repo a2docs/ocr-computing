@@ -15,7 +15,7 @@ This A-level comprises of both written, externally-examined papers and coursewor
 |Data types, data structures and algorithms||
 |Legal, moral, cultural and ethical issues||
 
-|Paper 1|Paper 2|Paper 3|
+|Paper 1|Paper 2|Coursework|
 |----|----|----|
 |Computer systems|Algorithms and programming|Programming project|
 |140 marks|140 marks|70 marks|
